@@ -149,8 +149,130 @@ button{
 }
 
 .tours-text button{
-    padding: 14px 34px ;
+    padding: 14px 34px;
     margin-top: 16px;
     font-size: 1.25rem;
+    font-weight: 800;
+}
+
+/* destination styles */
+.destination-info{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.destination-info h3{
+    color: rgb(19, 19, 24);
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.destination-info p{
+    color: rgba(19, 19, 24, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.destination-cards{
+    margin-top: 48px;
+}
+
+.row-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row-2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row-3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.maldives-card{
+    width: 573px;
+    height: 300px;
+    background-image: url("../Images/Rectangle\ 5.png");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.indonesia-card{
+    width: 573px;
+    height: 300px;
+    background-image: url("../Images/Rectangle\ 8.png");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.srilanka-card{
+    width: 374px;
+    height: 286px;     
+    background-image: url("../Images/Rectangle\ 6.png");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.na-card{
+    width: 474px;
+    height: 286px;    
+    background-image: url("../Images/Rectangle\ 7.png");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.kashmir-card{
+    width: 274px;
+    height: 286px;  
+    background-image: url("../Images/Rectangle\ 9.png");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.bd-card{
+    width: 473px;
+    height: 300px; 
+    background-image: url("../Images/Rectangle\ 11.png");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.bandarban-card{
+    width: 673px;
+    height: 300px;
+    background-image: url("../Images/Rectangle\ 10.png");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
     font-weight: 800;
 }
