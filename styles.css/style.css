@@ -36,7 +36,7 @@ button{
     justify-content: center;
     align-items: center;
     gap: 16px ;
-    font-size: 36px;
+    font-size: 2.25rem;
     font-weight: 800;
     color: rgb(19, 19, 24);
 }
@@ -78,12 +78,12 @@ button{
 }
 
 .banner-info h3{
-    font-size: 64px;
+    font-size: 4rem;
     font-weight: 800;
 }
 
 .banner-info p{
-    font-size: 64px;
+    font-size: 4rem;
     font-weight: 800;
     font-size: 16px;
     font-weight: 400;
@@ -128,7 +128,7 @@ button{
 
 .tours-text h3{
     color: rgb(19, 19, 24);
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 800;
     margin-bottom: 24px;
 }
@@ -145,11 +145,12 @@ button{
     color: rgba(19, 19, 24, 0.7);
     font-size: 16px;
     font-weight: 400;
+    margin-left: 1.5rem;
 }
 
 .tours-text button{
     padding: 14px 34px ;
     margin-top: 16px;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 800;
 }
