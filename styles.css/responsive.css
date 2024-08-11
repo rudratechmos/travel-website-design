@@ -1,0 +1,211 @@
+@media screen and (max-width: 600px) {
+    /* header styles */
+    .nav-options{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+    .nav-logo h3{
+        font-size: 1.346rem;
+    }
+    .menu i{
+        font-size: 1.346rem;
+    }
+    .navbar{
+        margin: 20px 0px;
+    }
+    .banner-container{
+        width: 335px;
+        height: 483px;
+    }
+    .banner-info h3{
+        font-size: 1.375rem;
+    }
+    .banner-info p{
+        font-size: 14px;
+        margin: 8px 0px 32px;
+    }
+    .banner-inputs{
+        width: 287px;
+        height: 288px;
+        flex-direction: column;
+        gap: 16px;
+    }
+    .banner-inputs input,select{
+        width: 255px;
+        height: 52px;
+    }
+    .banner-inputs button{
+        width: 255px;
+        height: 52px;
+    }
+
+    /* tour section styles */
+    .tours-content{
+        margin-top: 24px;
+        flex-direction: column;
+    }
+    .tours-text h3{
+        font-size: 1.25rem;
+    }
+    .tours-text{
+        font-size: 14px;
+        margin-bottom: 24px;
+    }
+    .tours-img{
+        width: 335px;
+        height: 342px;
+    }
+    .tours-img img{
+        width: 100%;
+        height: 100%;
+        margin-bottom: 24px;
+    }
+    
+    /* destination section styles */
+    .destination-container{
+        display: flex;
+        flex-direction: column;
+        margin-top: 24px;
+    }
+    .destination-info{
+        display: flex;
+        flex-direction: column;
+        margin-top: 24px;
+    }
+    .destination-info h3{
+        font-size: 1.25rem;
+    }
+    .destination-info p{
+        font-size: 14px;
+    }
+    .row-1{
+        flex-direction: column;
+    }
+    .row-2{
+        flex-direction: column;
+    }
+    .row-3{
+        flex-direction: column;
+    }
+    .maldives-card{
+        width: 335px;
+        height: 176px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .indonesia-card{
+        width: 335px;
+        height: 176px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .srilanka-card{
+        width: 335px;
+        height: 176px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .na-card{
+        width: 335px;
+        height: 176px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .kashmir-card{
+        width: 335px;
+        height: 176px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .bd-card{
+        width: 335px;
+        height: 176px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .bandarban-card{
+        width: 335px;
+        height: 176px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+
+    /* choose section styles */
+    .choose-container{
+        max-width: 335px;  
+        margin: 24px auto 0px;
+    }
+
+    .choose-text h1{
+        font-size: 1.25rem;
+    }
+
+    .choose-text p{
+        font-size: 14px;
+        margin: 16px 0px;
+    }
+
+    .choose-cards img{
+        width: 48px;
+        height: 48px;
+        margin-bottom: 16px;
+    }
+
+    .choose-card-row-1{
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .choose-card-row-2{
+        margin-top: 16px;
+    }
+
+    .choose-card-1{
+        max-width: 335px;
+        height: 289px;  
+    }
+
+    .choose-card-1 h3{
+        font-size: 1.25rem;
+    }
+
+    .choose-card-1 p{
+        font-size: 14px;
+    }
+
+    .choose-card-2{
+        max-width: 335px;
+        height: 289px;  
+    }
+
+    .choose-card-2 h3{
+        font-size: 1.25rem; 
+    }
+
+    .choose-card-2 p{
+        font-size: 14px;
+    }
+
+    .choose-card-3{
+        max-width: 335px;
+        height: 289px;  
+    }
+
+    .choose-card-3 h3{
+        font-size: 1.25rem; 
+    }
+
+    .choose-card-3 p{
+        font-size: 14px;
+    }
+}
