@@ -331,13 +331,13 @@ button{
 
 .choose-text h1{
     color: rgb(19, 19, 24);
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 800;  
 }
 
 .choose-text p{
     color: rgba(19, 19, 24, 0.7);
-    font-size: 2.5rem;
+    font-size: 16px;
     font-weight: 400;
     margin: 24px 0px 80px;
 }
@@ -433,6 +433,130 @@ button{
     color: rgb(90, 90, 93);
     font-size: 16px;
     font-weight: 400;
+}
+
+/* deals section styles */
+.deals-container{
+    max-width: 1170px;
+    margin: 100px auto 0px;
+}
+
+.deals-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.deals-text{
+    text-align: center;
+}
+
+.deals-text h1{
+    color: rgb(19, 19, 24);
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.deals-text p{
+    max-width: 643px;
+    color: rgba(19, 19, 24, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 24px 0px 48px;
+}
+
+.deals-card-container{
+    width: 1170px;
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url("../Images/Group\ 39.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+}
+
+.deals-card{
+    width: 579px;
+    margin-right: 56px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 16px;
+    backdrop-filter: blur(5px);
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.deals-card-content{
+    padding: 50px;
+}
+
+.deals-info{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+.deals-info img{
+    height: 20px;
+}
+
+.deals-time{
+    display: flex;
+    gap: 8px;
+}
+
+.deals-people{
+    display: flex;
+    gap: 8px;
+}
+
+.deals-map{
+    display: flex;
+    gap: 8px;
+
+}
+
+.deals-card-content h3{
+    color: rgb(19, 19, 24);
+    font-size: 1.5rem;
+    margin-bottom: 16px;
+}
+
+.deals-card-content p{
+    color: rgb(90, 90, 93);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.deals-card-content h4{
+    color: rgb(255, 84, 0);
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin: 16px 0px 24px;
+}
+
+.deals-card-content button{
+    font-size: 1.25rem;
+    font-weight: 800;
+    padding: 14px 24px;
+}
+
+.dcc-2{
+    justify-content: flex-start;
+    margin: 24px 0px;
+    background-image: url("../Images/Group\ 40.png");
+}
+
+.dc-2{
+    margin-left: 56px;
+}
+
+.deals-button{
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin-top: 48px;
+    padding: 14px 22px;
 }
 
 /* footer styles */
