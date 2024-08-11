@@ -169,10 +169,10 @@ button{
 .destination-container{
     max-width: 1170px;
     margin: 0 auto;
+    margin-top: 100px;
 }
 
 .destination-info{
-    margin-top: 100px;
     text-align: center;
 }
 
@@ -213,84 +213,105 @@ button{
     width: 573px;
     height: 300px;
     background-image: url("../Images/Rectangle\ 5.png");
+    background-size: cover;
+    background-position: center;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 28px;
     font-weight: 800;
+    border-radius: 16px;
 }
 
 .indonesia-card{
     width: 573px;
     height: 300px;
     background-image: url("../Images/Rectangle\ 8.png");
+    background-size: cover;
+    background-position: center;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 28px;
     font-weight: 800;
+    border-radius: 16px;
 }
 
 .srilanka-card{
     width: 374px;
     height: 286px;     
     background-image: url("../Images/Rectangle\ 6.png");
+    background-size: cover;
+    background-position: center;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 28px;
     font-weight: 800;
+    border-radius: 16px;
 }
 
 .na-card{
     width: 474px;
     height: 286px;    
     background-image: url("../Images/Rectangle\ 7.png");
+    background-size: cover;
+    background-position: center;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 28px;
     font-weight: 800;
+    border-radius: 16px;
 }
 
 .kashmir-card{
     width: 274px;
     height: 286px;  
     background-image: url("../Images/Rectangle\ 9.png");
+    background-size: cover;
+    background-position: center;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 28px;
     font-weight: 800;
+    border-radius: 16px;
 }
 
 .bd-card{
     width: 473px;
     height: 300px; 
     background-image: url("../Images/Rectangle\ 11.png");
+    background-size: cover;
+    background-position: center;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 28px;
     font-weight: 800;
+    border-radius: 16px;
 }
 
 .bandarban-card{
     width: 673px;
     height: 300px;
     background-image: url("../Images/Rectangle\ 10.png");
+    background-size: cover;
+    background-position: center;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 28px;
     font-weight: 800;
+    border-radius: 16px;
 }
 
 /* choose section styles */

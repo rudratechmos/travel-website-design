@@ -65,80 +65,86 @@
     
     /* destination section styles */
     .destination-container{
-        display: flex;
-        flex-direction: column;
+        max-width: 335px;
         margin-top: 24px;
     }
-    .destination-info{
-        display: flex;
-        flex-direction: column;
-        margin-top: 24px;
-    }
+    
     .destination-info h3{
         font-size: 1.25rem;
+        margin-bottom: 16px;
     }
+    
     .destination-info p{
-        font-size: 14px;
+        font-size: 14x;
     }
+    
+    .destination-cards{
+        margin-top: 16px;
+    }
+    
     .row-1{
         flex-direction: column;
+        justify-content: space-between;
     }
+    
     .row-2{
         flex-direction: column;
+        justify-content: space-between;
+        margin: 0px;
     }
+    
     .row-3{
         flex-direction: column;
+        justify-content: space-between;
     }
+    
     .maldives-card{
         width: 335px;
         height: 176px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        font-size: 1.25rem;
+        margin-bottom: 16px;
     }
+    
     .indonesia-card{
         width: 335px;
         height: 176px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        font-size: 1.25rem;
+        margin-bottom: 16px;
     }
+    
     .srilanka-card{
         width: 335px;
         height: 176px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        font-size: 1.25rem;
+        margin-bottom: 16px;
     }
+    
     .na-card{
         width: 335px;
         height: 176px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        font-size: 1.25rem;
+        margin-bottom: 16px;
     }
+    
     .kashmir-card{
         width: 335px;
         height: 176px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        font-size: 1.25rem;
+        margin-bottom: 16px;
     }
+    
     .bd-card{
         width: 335px;
         height: 176px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        font-size: 1.25rem;
+        margin-bottom: 16px;
     }
+    
     .bandarban-card{
         width: 335px;
         height: 176px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        font-size: 1.25rem;
     }
-
 
     /* choose section styles */
     .choose-container{
