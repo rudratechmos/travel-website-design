@@ -238,6 +238,92 @@
         font-size: 14px;
     }
 
+    /* deals section styles */
+    .deals-container{
+        max-width: 335px;
+        margin: 24px auto 0px;
+    }
+
+    .deals-text h1{
+        font-size: 1.25rem;
+    }
+
+    .deals-text p{
+        max-width: 309px;
+        font-size: 14px;
+        margin: 16px 0px;
+    }
+
+    .deals-card-container{
+        width: 335px;
+        height: 500px;
+        flex-direction: column;
+        padding: 16px;
+    }
+
+    .deals-card{
+        width: 303px;
+        margin-right: 0px;
+    }
+
+    .deals-card-content{
+        padding: 24px;
+    }
+
+    .deals-info{
+        flex-direction: column;
+        margin-bottom: 16px;
+    }
+
+    .deals-info img{
+        height: 20px;
+    }
+
+    .deals-time{
+        display: flex;
+        gap: 8px;
+    }
+
+    .deals-people{
+        display: flex;
+        gap: 8px;
+    }
+
+    .deals-map{
+        display: flex;
+        gap: 8px;
+
+    }
+
+    .deals-card-content h3{
+        font-size: 1.25rem;
+        margin-bottom: 8px;
+    }
+
+    .deals-card-content p{
+        font-size: 14px;
+    }
+
+    .deals-card-content h4{
+        font-size: 16px;
+        margin: 12px 0px 16px;
+    }
+
+    .deals-card-content button{
+        font-size: 1.125rem;
+        font-weight: 700;
+        padding: 8px 20px;
+    }
+
+    .dcc-2{
+        justify-content: flex-end;
+        margin: 16px 0px;
+    }
+
+    .deals-button{
+        display: none;
+    }
+
     /* footer styles */
     .footer-container{
         margin-top: 24px;
