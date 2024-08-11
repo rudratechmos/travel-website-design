@@ -24,6 +24,10 @@
         height: 483px;
     }
 
+    .banner-info{
+        max-width: 304px;
+    }
+
     .banner-info h3{
         font-size: 1.375rem;
     }
@@ -34,23 +38,19 @@
     }
 
     .banner-inputs{
-        width: 287px;
-        height: 288px;
         gap: 16px;
         flex-direction: column;
     }
 
     .banner-inputs input,select{
-        width: 255px;
-        height: 52px;
+        width: 213px;
     }
 
     .banner-inputs select{
-        width: 270px;
+        width: 242px;
     }
 
     .banner-inputs button{
-        width: 270px;
         padding: 14px 75px;
     }
 
