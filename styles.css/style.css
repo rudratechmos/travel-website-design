@@ -312,6 +312,12 @@ button{
     margin: 24px 0px 80px;
 }
 
+.choose-cards img{
+    width: 64px;
+    height: 64px;
+    margin-bottom: 32px;
+}
+
 .choose-card-row-1{
     display: flex;
     justify-content: center;
