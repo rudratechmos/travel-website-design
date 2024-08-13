@@ -560,6 +560,70 @@ button{
     padding: 14px 22px;
 }
 
+/* place section styles */
+.place-container{
+    max-width: 1170px;
+    margin: 200px auto 0px;
+}
+
+.place-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.place-content-p1{
+    max-width: 532px;
+}
+
+.place-content-p1 h1{
+    color: rgb(19, 19, 24);
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.place-content-p1 p{
+    color: rgb(90, 90, 93);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 24px 0px 8px;
+}
+
+.place-content-p1 li{
+    color: rgb(19, 19, 24);
+    font-size: 16px;
+    font-weight: 700;
+    margin: 16px 0px 32px;
+    margin-left: 1em;
+}
+
+.place-content-p1 button{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 800;
+    padding: 14px 42px;
+}
+
+.place-content-p2{
+    width: 610px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../Images/Group\ 40089.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+}
+
+.place-content-p2 h3{
+    width: 276px;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
 /* footer styles */
 .footer-container{
     margin-top: 100px;
