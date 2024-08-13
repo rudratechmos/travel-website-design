@@ -577,7 +577,7 @@ button{
 
 .place-content-p1 h1{
     color: rgb(19, 19, 24);
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 800;
 }
 
@@ -592,15 +592,16 @@ button{
     color: rgb(19, 19, 24);
     font-size: 16px;
     font-weight: 700;
-    margin: 16px 0px 32px;
+    margin: 16px 0px 0px;
     margin-left: 1em;
 }
 
 .place-content-p1 button{
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 800;
     padding: 14px 42px;
+    margin-top: 32px;
 }
 
 .place-content-p2{
@@ -615,14 +616,11 @@ button{
 }
 
 .place-content-p2 h3{
-    width: 276px;
     color: rgb(255, 255, 255);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     text-align: center;
 }
-
-
 
 /* footer styles */
 .footer-container{
